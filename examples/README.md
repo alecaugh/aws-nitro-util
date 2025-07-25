@@ -1,4 +1,4 @@
-# Usage examples
+# Usage examples test
 
 You need to install [Nix](https://nixos.org/) and [enable flakes](https://nixos.wiki/wiki/Flakes) to use this repo.
 Examples are structured as an additional Nix flake containing [derivations](https://zero-to-nix.com/concepts/derivations) (ie, build recipes, like Dockerfiles) for potential EIFs.
